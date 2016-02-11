@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Freemium Config -->
+    <string name="is_full_version">false</string>
+    <string name="app_full_version_package">com.kevinhinds.spacebots</string>
+
+    <!-- (Not deploying to Google? you need the special pollfish JAR) -->
+    <string name="marketplace_name">Google</string> <!-- Amazon|Nook|Google -->
+
+    <!-- Suggested App Package -->
+    <string name="has_suggested_app">true</string>
+    <string name="suggested_app_menu">My New Free App!</string>
+    <string name="suggested_app_package">com.kevinhinds.trekfree</string>
+
+    <!-- Example: Latest Updates\n\nItem #1\nItem #2\n\nThanks for downloading! -->
+    <string name="latest_update_notes">Latest Updates:\n\nInitial Game Release!\n\nThanks for downloading!</string>
+
+    <!-- Freemium Standard Config -->
+    <string name="app_publisher_name">Kevin Hinds</string>
+    <string name="app_publisher_package">com.kevinhinds</string>
+    <string name="menu_bitstreet">Bitstreet Apps</string>
+    <string name="menu_fullversion">Ads Free Version</string>
+    <string name="device_nook_ean_number">1234567890</string>
+
+</resources>

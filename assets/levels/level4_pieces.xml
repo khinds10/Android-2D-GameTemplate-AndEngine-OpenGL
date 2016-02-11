@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="804" height="480">
+    <piece x="120" y="108" type="128" animationSpeed="200" movementSpeed="0"/> <!-- ROW 9 COLUMN 10 -->
+    <piece x="600" y="144" type="140" animationSpeed="200" movementSpeed="0"/> <!-- ROW 12 COLUMN 50 -->
+    <piece x="216" y="252" type="141" animationSpeed="200" movementSpeed="0"/> <!-- ROW 21 COLUMN 18 -->
+    <piece x="144" y="312" type="142" animationSpeed="200" movementSpeed="0"/> <!-- ROW 26 COLUMN 12 -->
+    <piece x="156" y="372" type="143" animationSpeed="200" movementSpeed="0"/> <!-- ROW 31 COLUMN 13 -->
+    <piece x="324" y="372" type="402" animationSpeed="200" movementSpeed="0"/> <!-- ROW 31 COLUMN 27 -->
+</level>
